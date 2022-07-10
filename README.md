@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GURUNANJE WODEYAR
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working as Tech Support Engineer
+- 👀 I’m intrested in Web Development
+- 🌱 I’m currently learning Full Stack Javascript Developer Course in ineuron.ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
